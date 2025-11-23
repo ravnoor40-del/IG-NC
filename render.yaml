@@ -1,0 +1,5 @@
+buildFilter:
+  paths:
+    - src*.js
+  ignoredPaths:
+    - src*.test.js
